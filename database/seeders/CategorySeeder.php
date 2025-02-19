@@ -12,11 +12,6 @@ class CategorySeeder extends Seeder
      * Run the database seeds.
      */
     public function run(){
-    //     $category->name = 'Category 2';
-    //     $category->slug = 'category-2';
-    //     $category->description = 'Description for category 2';
-    //     $category->save();
-    // {
     //     \DB::table('categories')->insert([
     //         'name' => 'Category 1',
     //         'slug' => 'category-1',
@@ -29,5 +24,9 @@ class CategorySeeder extends Seeder
     //         'slug' => 'category-2',
     //         'description' => 'Description for category 2',
     //     ]);
+     //     $category->name = 'Category 2';
+    //     $category->slug = 'category-2';
+    //     $category->description = 'Description for category 2';
+    //     $category->save();
     }
 }
